@@ -1,0 +1,28 @@
+
+.font-raleway {
+    font-family: "Raleway", sans-serif;
+}
+#bg-container {
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    width: 1171px;
+    height: 550px;
+}
+
+.coupon-sec {
+    background-image: url(../images/Rectangle\ 8.png);
+    background-repeat: no-repeat
+}
+.coupon-sec2 {
+    background-image: url(../images/Rectangle\ 8\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cart-seat {
+    background-image: url(../images/Group\ 3600.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4px;
+    border-radius: 15
+    px;
+}
